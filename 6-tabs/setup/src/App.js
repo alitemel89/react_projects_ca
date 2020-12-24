@@ -67,7 +67,9 @@ function App() {
           })}
         </article>
       </div>
+      <button className="center-btn">More info</button>
     </section>
+    
   )
 }
 
