@@ -4,7 +4,7 @@ import Categories from './Categories';
 import items from './data';
 
 const allCategories = ['all', ...new Set(items.map(item => item.category))]
-
+// new Set filters unique category values
 
 function App() {
   const [menuItems, setMenuItems] = useState(items);
