@@ -226,3 +226,8 @@ main {
   padding: 0.25rem 0.5rem;
   border-radius: var(--radius);
 }
+
+.delete-btn:hover {
+  color: var(--clr-white);
+  background-color: var(--clr-primary-1);
+}
