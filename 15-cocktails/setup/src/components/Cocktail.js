@@ -9,4 +9,4 @@ const Cocktail = () => {
   )
 }
 
-export default Cocktail
+export default Cocktail;
